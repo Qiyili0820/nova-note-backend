@@ -40,7 +40,10 @@
     </dependencies>
 
     <properties>
-        <java.version>22</java.version> <!-- 你的JDK版本是22 -->
+        <java.version>17</java.version>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
     </properties>
+
 
 </project>
